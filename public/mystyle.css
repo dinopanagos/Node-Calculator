@@ -1,0 +1,33 @@
+body{
+	padding-left: 500px;
+	padding-top: 200px;
+	color: purple;
+}
+
+input{
+	color:black;
+}
+
+#one, #two, #four, #five{
+
+	background-color:blue;
+	color:white;
+	width: 5em;  height: 5em;
+	font-family:"Verdana", Times, serif;
+	font-size: 14px;
+}
+
+#zero, #six, #reset, #equals, #minus{
+background-color:white;
+width: 5em;  height: 5em;
+font-family:"Verdana", Times, serif;
+font-size: 14px;
+	}
+
+#seven, #eight, #nine, #times, #divide, #three, #plus{
+	background-color:red;
+	width: 5em;  height: 5em;
+	font-family:"Verdana", Times, serif;
+	font-size: 14px;
+}
+
